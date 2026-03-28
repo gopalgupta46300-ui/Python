@@ -1,0 +1,26 @@
+Machine Learning
+
+supervised Unsupervised Semi-Supervised Reinforcement Learning
+1. classification
+      Logistic Regression
+      Decision Tree
+      Random Forest
+      K - nearest neighbour
+      
+   Regression
+      Linear Regression
+      Ridge and Lasso Regression
+
+SVM is for both regression and classification
+
+2. Clustering 
+    k- means clustering
+    Mean Shift Clustering
+    DBSCAN Clustering
+    Agglomerative Hierarchical Clustering
+  Dimensionality Reducation
+
+3. Reinforcemen Learning
+    Q - learning 
+    R - learning
+    TD - learning
